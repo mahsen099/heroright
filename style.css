@@ -55,7 +55,9 @@ background-size: auto;
 @media(max-width: 426px){
   .full-text {
     padding-top:20%;
-   
+  }
+  p{
+    text-align-last:initial;
   }
 }
 @media(max-width: 767px){
