@@ -17,7 +17,7 @@ body {
 .text-right {
   padding-right: 12px;
   padding-left: 12px;
-  width:736px;
+  width: 736px;
 }
 .full-text {
 padding-top:10%;
@@ -51,14 +51,18 @@ background-size: auto;
       text-align: center;
       margin: 0 auto;
       }
+      .text-right{
+        width: 100%;
+      }
+      p{
+        text-align-last:center;
+      }
 }
 @media(max-width: 426px){
   .full-text {
     padding-top:20%;
   }
-  p{
-    text-align-last:initial;
-  }
+  
 }
 @media(max-width: 767px){
   .full-text {
