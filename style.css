@@ -51,6 +51,9 @@ background-size: auto;
       text-align: center;
       margin: 0 auto;
       }
+      .right-crop{
+        width: auto;
+      }
       .text-right{
         width: 100%;
       }
