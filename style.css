@@ -42,8 +42,7 @@ p {
 }
 .right-crop{
 background-size: auto;
-    background-position-x: right;
-    width:1440px;
+  background-position-x: right;
 }
 /* media*/
 @media(max-width: 769px){
