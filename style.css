@@ -15,13 +15,12 @@ body {
   min-height: 400px;
 }
 .text-right {
-  padding-right: 12px;
+  padding-right: 180px;
   padding-left: 12px;
-  width: 736px;
+  width: 904px;
 }
 .full-text {
 padding-top:17%;
-  margin-right: -212px; 
 }
 h2 {
   font-weight: 500;
@@ -38,7 +37,7 @@ p {
   letter-spacing: 0;
   line-height: 24px;
   margin-bottom: 16px;
-  text-align-last:left;
+  text-align-last:right;
 }
 .right-crop{
 background-size: auto;
@@ -55,6 +54,7 @@ background-size: auto;
       }
       .text-right{
         width: 100%;
+        padding-right: 12px !important;
       }
       p{
         text-align-last:center;
