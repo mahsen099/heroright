@@ -38,7 +38,7 @@ padding-top: 8%;
 float: right;
 }
 .text-row{
-padding-right: 12px;
+margin-right: 0px;
 }
 .primary {
 min-width: 150px;
@@ -79,7 +79,6 @@ text-align: right;
       }
       .text-row {
         padding-left: 12px;
-        padding-right: 12px;
       }
       .float-Right {
 float: none;        
@@ -98,4 +97,9 @@ text-align-last: center;}
   width:1440px;
 }
 }
-
+@media(min-width:1440px){
+.button-text{
+  padding-left: 88%;
+  width:200px;
+}
+}
