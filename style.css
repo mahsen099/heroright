@@ -104,3 +104,9 @@ text-align-last: center;}
   width:200px;
 }
 }
+@media(max-width: 769px){
+.image { 
+  background-position: right;
+}
+
+}
