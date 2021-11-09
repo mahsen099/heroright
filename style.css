@@ -10,7 +10,7 @@ body {
   background-image: url("./photo/unnamed.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: right;
   min-height: 400px;
 }
 h2 {
