@@ -95,6 +95,7 @@ text-align-last: center;}
 @media(min-width:1441px){
 .full-content{
   width:1440px;
+  margin:0 auto;
 }
 }
 @media(min-width:1440px){
